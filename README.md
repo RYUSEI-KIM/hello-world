@@ -6,4 +6,4 @@ My name is **Kim Hyun Min**, and I am a composition major.
 
 This is my first GitHub repository.
 
-<img src="hellow-world.png">
+<img src="week-04-1.png">
